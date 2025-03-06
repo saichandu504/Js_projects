@@ -24,3 +24,8 @@ form.addEventListener('submit', function(e){
 });
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1723ded (intial commit)

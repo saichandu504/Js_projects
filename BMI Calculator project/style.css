@@ -3,7 +3,11 @@
     height: 525px;
     margin-left: 450px;
     margin-top: 65px;
+<<<<<<< HEAD
     background-color: rgb(0, 255, 229);
+=======
+    background-color: rgb(0, 255, 247);
+>>>>>>> 1723ded (intial commit)
     padding-left: 30px;
 }
 #height, #weight {
@@ -21,7 +25,11 @@
     font-size: 35px;
     margin-left: 90px;
     margin-top: 20px;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: rgb(13, 0, 255);
+>>>>>>> 1723ded (intial commit)
 }
 
 button{
@@ -31,7 +39,11 @@ button{
     margin-top: 25px;
     border-radius: 5px;
     border-style: none;
+<<<<<<< HEAD
     background-color: blue;
+=======
+    background-color: rgb(8, 0, 255);
+>>>>>>> 1723ded (intial commit)
     color: #fff;
     font-size: 25px;
 }
