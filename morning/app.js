@@ -14,6 +14,3 @@ var hrs = today.getHours();
 
 
 
-//prompt('text', default text')
-//Document.writeln();
-//https://www.w3schools.com/jsref/met_doc_write.asp
